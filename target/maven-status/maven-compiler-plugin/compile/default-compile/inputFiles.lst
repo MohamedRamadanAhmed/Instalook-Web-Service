@@ -1,0 +1,74 @@
+<<<<<<< HEAD
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Service.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\impl\SalonServiceImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\BarbersDAO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\impl\BookingDAOImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\SalonServicesService.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\UserService.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\BarbersService.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\impl\UserServiceImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\ServicesDAO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\authentication\UserRestController.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\UserDAO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\barber\BarbersRestController.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\salon\SalonServicesRestController.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\BookingService.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\SalonDAO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\impl\BarbersServiceImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\impl\SalonServicesServiceImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\impl\ServicesDAOImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\utils\BaseResponse.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\salon\SalonRestController.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\impl\SalonDAOImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Salon.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Image.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Post.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dto\BookingDTO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\SalonService.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Point.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\impl\UserDAOImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\BookingDAO.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Barber.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\Booking.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\entity\User.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\view\controller\booking\BookingRestController.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\service\impl\BookingServiceImpl.java
+F:\ITI Intake 39\FINAL PROJECT\V2\InstaLook\src\main\java\com\instalook\instalook\model\dal\dao\impl\BarbersDAOImpl.java
+=======
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\impl\SalonServiceImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\booking\BookingRestController.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\User.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\SalonServicesService.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\impl\SalonDAOImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\salon\SalonRestController.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\impl\BookingDAOImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dto\ServiceDTO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Barber.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\authentication\UserRestController.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dto\BookingDTO.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\salon\SalonServicesRestController.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\impl\UserServiceImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\impl\BookingServiceImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\impl\UserDAOImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\impl\ServicesDAOImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\SalonDAO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\BookingDAO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\impl\SalonServicesServiceImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\ServicesDAO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Point.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\UserDAO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Post.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\BarbersService.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\UserService.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\utils\BaseResponse.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Booking.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Image.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\BarbersDAO.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\dao\impl\BarbersDAOImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Service.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\BookingService.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\entity\Salon.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\impl\BarbersServiceImpl.java
+D:\Instalook\src\main\java\com\instalook\instalook\model\dal\service\SalonService.java
+D:\Instalook\src\main\java\com\instalook\instalook\view\controller\barber\BarbersRestController.java
+>>>>>>> 9f735a315e016832ba47ad1b9ce5296c5184a1e7
